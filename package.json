@@ -1,0 +1,18 @@
+{
+  "name": "p4patch",
+  "version": "1.0.0",
+  "description": "generate patch file from p4 command line",
+  "main": "p4patch.js",
+  "bin": {
+    "p4patch": "p4patch.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "lodash": "^4.16.6"
+  }
+}
