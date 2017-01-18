@@ -9,10 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mhzedd@gmail.com",
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
-    "lodash": "^4.16.6"
+    "lodash": "^4.16.6",
+    "pmfy": "^1.0.3"
   }
 }
