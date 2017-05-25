@@ -1,8 +1,9 @@
 {
   "name": "p4patch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate patch file from p4 command line",
   "main": "p4patch.js",
+  "repository": "https://github.com/mhzed/p4patch",
   "bin": {
     "p4patch": "p4patch.js"
   },
